@@ -1,8 +1,0 @@
-minimumReleaseAgeExclude:
-  - '@module-federation/dts-plugin@2.8.1'
-  - '@module-federation/error-codes@2.8.1'
-  - '@module-federation/managers@2.8.1'
-  - '@module-federation/runtime-core@2.8.1'
-  - '@module-federation/runtime@2.8.1'
-  - '@module-federation/sdk@2.8.1'
-  - '@module-federation/third-party-dts-extractor@2.8.1'
