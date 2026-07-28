@@ -1,0 +1,20 @@
+{
+  "name": "mf-vue-i18n-repro",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.6.0-beta.17",
+    "vue-i18n": "11.4.8"
+  },
+  "devDependencies": {
+    "@module-federation/vite": "file:/home/injurka/my/vite",
+    "@vitejs/plugin-vue": "^6.0.8",
+    "vite": "^8.1.5"
+  }
+}
